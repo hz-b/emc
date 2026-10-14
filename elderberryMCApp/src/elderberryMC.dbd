@@ -1,0 +1,2 @@
+registrar(emcCoreRegister)
+variable(emc_server_debug, int)

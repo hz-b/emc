@@ -1,0 +1,5 @@
+# The IOC has its own TOP but uses the parent's EPICS Base installation.
+include $(TOP)/configure/RELEASE
+include $(EPICS_BASE)/configure/CONFIG
+INSTALL_LOCATION = $(TOP)
+include $(TOP)/configure/CONFIG_SITE

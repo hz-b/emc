@@ -1,0 +1,23 @@
+# EPICS build directories
+O.*/
+
+# Generated installation directories
+/bin/
+/lib/
+/include/
+/db/
+/dbd/
+/html/
+/testIoc/bin/
+/testIoc/lib/
+/testIoc/include/
+/testIoc/db/
+/testIoc/dbd/
+
+# hg
+.hg
+.hgignore
+# Editor and browsing files
+*~
+*.swp
+cscope.*
