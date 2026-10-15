@@ -14,6 +14,11 @@ O.*/
 /testIoc/db/
 /testIoc/dbd/
 
+testIoc/.iocsh_history
+testIoc/iocBoot/iocelderberryMCTest/.iocsh_history
+testIoc/iocBoot/iocelderberryMCTest/envPaths
+
+configure/RELEASE
 # hg
 .hg
 .hgignore
